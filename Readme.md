@@ -5,7 +5,7 @@ Instruction to run this Springboot Application
 <p><b>Author:</b> Sanjida Tumpa</p>
 <p><b>Pre-requisite:</b> </p>
 
-1. JAVA 1.8
+1. JAVA 8
 2. Maven 3.5 </p>
 <p> <b>How to run</b> </p>
 
